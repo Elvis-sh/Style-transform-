@@ -1,0 +1,91 @@
+{
+  "model": "checkpoints_style2_new/transformer_final.pth",
+  "style_image": "2.jpg",
+  "num_test_images": 10,
+  "average_content_loss": 8.50566258430481,
+  "average_style_loss": 2.889947453468267e-05,
+  "average_total_loss": 11.395610037773077,
+  "average_delta_time_ms": 50.54630999875371,
+  "results": [
+    {
+      "image": "000000000139.jpg",
+      "output_path": "evaluation_results\\000000000139_stylized.jpg",
+      "content_loss": 10.596792221069336,
+      "style_loss": 2.5326813130277515e-05,
+      "total_loss": 13.129473534097087,
+      "delta_time_ms": 234.87529999692924
+    },
+    {
+      "image": "000000057027.jpg",
+      "output_path": "evaluation_results\\000000057027_stylized.jpg",
+      "content_loss": 9.213794708251953,
+      "style_loss": 2.308022787644859e-05,
+      "total_loss": 11.521817495896812,
+      "delta_time_ms": 27.283600000373553
+    },
+    {
+      "image": "000000119365.jpg",
+      "output_path": "evaluation_results\\000000119365_stylized.jpg",
+      "content_loss": 8.568877220153809,
+      "style_loss": 2.3524593046886366e-05,
+      "total_loss": 10.921336524842445,
+      "delta_time_ms": 36.11779999482678
+    },
+    {
+      "image": "000000173091.jpg",
+      "output_path": "evaluation_results\\000000173091_stylized.jpg",
+      "content_loss": 6.163365840911865,
+      "style_loss": 3.533327608806758e-05,
+      "total_loss": 9.696693449718623,
+      "delta_time_ms": 38.29709999990882
+    },
+    {
+      "image": "000000229753.jpg",
+      "output_path": "evaluation_results\\000000229753_stylized.jpg",
+      "content_loss": 8.407156944274902,
+      "style_loss": 2.8107849630032433e-05,
+      "total_loss": 11.217941907278146,
+      "delta_time_ms": 22.795100005168933
+    },
+    {
+      "image": "000000289594.jpg",
+      "output_path": "evaluation_results\\000000289594_stylized.jpg",
+      "content_loss": 8.995769500732422,
+      "style_loss": 3.0654762412041237e-05,
+      "total_loss": 12.061245741936546,
+      "delta_time_ms": 34.46659999463009
+    },
+    {
+      "image": "000000347544.jpg",
+      "output_path": "evaluation_results\\000000347544_stylized.jpg",
+      "content_loss": 7.482909679412842,
+      "style_loss": 3.30783283288838e-05,
+      "total_loss": 10.790742512301222,
+      "delta_time_ms": 33.53879999485798
+    },
+    {
+      "image": "000000405249.jpg",
+      "output_path": "evaluation_results\\000000405249_stylized.jpg",
+      "content_loss": 11.659993171691895,
+      "style_loss": 2.093830904925653e-05,
+      "total_loss": 13.753824076617548,
+      "delta_time_ms": 30.278600002930034
+    },
+    {
+      "image": "000000463174.jpg",
+      "output_path": "evaluation_results\\000000463174_stylized.jpg",
+      "content_loss": 9.78382396697998,
+      "style_loss": 2.4610369820265987e-05,
+      "total_loss": 12.24486094900658,
+      "delta_time_ms": 23.20509999844944
+    },
+    {
+      "image": "000000521601.jpg",
+      "output_path": "evaluation_results\\000000521601_stylized.jpg",
+      "content_loss": 4.184142589569092,
+      "style_loss": 4.434021596466664e-05,
+      "total_loss": 8.618164186035756,
+      "delta_time_ms": 24.605099999462254
+    }
+  ]
+}

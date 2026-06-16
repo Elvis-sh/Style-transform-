@@ -1,0 +1,44 @@
+# 训练数据 (太大)
+train_data/
+
+# 旧的检查点目录
+checkpoints/
+checkpoints_style2/
+checkpoints_style2_new/
+checkpoints_run2/
+
+# 旧文件名 (已重命名)
+2.jpg
+1.jpg
+result_fast.jpg
+result.jpg
+result_timing.jpg
+实验报告_完整版.md
+实验报告_图像风格迁移.pdf
+实验报告_模型分析与损失报告.md
+智能计算系统实验-图像风格迁移实验说明.pdf
+evaluation_results/
+
+# 中间产物
+styles/
+examples/
+tasks/
+eval_run2/
+
+# Python
+__pycache__/
+*.pyc
+
+# 辅助脚本(非核心)
+gen_table.py
+md2pdf.py
+md2pdf2.py
+evaluate_only.py
+train_and_evaluate.py
+run_full.py
+font_test.pdf
+
+# Claude / 系统
+.claude/
+.DS_Store
+Thumbs.db
